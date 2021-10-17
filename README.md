@@ -28,5 +28,4 @@ I'm a software developer trying to make open-source more accessible, creating te
 <h1> Find Me Around 🌎</h1>
 <ul>
    <li><b>LinkedIn</b>  : <a href = "https://www.linkedin.com/in/jayendra1107/">Jayendra Singh</a></li>
-   <li><b>Twitter</b>   : <a href = "https://twitter.com/jayendra1107">@jayendra1107</a></li>
 </ul>
