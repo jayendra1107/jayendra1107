@@ -5,7 +5,7 @@
 I'm a software developer 👨‍💻 trying to make open-source more accessible, creating technologies for the benefit of community. If you feel to optimize any of my code futher or you want to give some suggestion, pull requests are always welcome 🙂.
 </p>
 <p>
-  <img align=right height=200px
+  <img align=right height=190px
 src="https://user-images.githubusercontent.com/63765750/138040008-d80b0890-529f-446c-8e05-418dcc833f43.png" />
 </p>
 <ul>
