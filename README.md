@@ -9,7 +9,6 @@ I'm a software developer 👨‍💻 trying to make open-source more accessible,
 src="https://user-images.githubusercontent.com/63765750/138040008-d80b0890-529f-446c-8e05-418dcc833f43.png" />
 </p>
 <ul>
-  <li>😄 &nbsp; Pronouns: He/Him</li>
   <li>🔭 &nbsp; I’m currently working on Full Stack Development</li>
   <li>🌱 &nbsp; I’m currently learning Convolutional Neural Network</li>
   <li>💬 &nbsp; Talk to me about Machine Learning and Web Development</li>
