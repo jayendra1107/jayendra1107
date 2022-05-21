@@ -2,7 +2,7 @@
   <img width="1316" alt="Screenshot 2021-05-30 at 7 45 38 PM" src="https://user-images.githubusercontent.com/63765750/120107687-a0efa780-c17f-11eb-8b4e-ce43b0483253.png">
 </p>
 <p align = left>
-I'm a software developer 👨‍💻 trying to make open-source more accessible, creating technologies for the benefit of community. If you feel to optimize any of my code futher or you want to give some suggestion, pull requests are always welcome 🙂.
+I'm a software engineer 👨‍💻 trying to make open-source more accessible, creating technologies for the benefit of community. If you feel to optimize any of my code futher or you want to give some suggestion, pull requests are always welcome 🙂.
 </p>
 <ul>
   <li>🔭 &nbsp; I’m currently working as Site Relaibility Engineer</li>
